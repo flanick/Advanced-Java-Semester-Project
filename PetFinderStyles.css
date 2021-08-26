@@ -1,0 +1,27 @@
+.label {
+    -fx-font-family: "Comic Sans MS";
+    -fx-text-fill: blue;
+    -fx-font-size: 12pt;
+    -fx-font-style: italic;
+
+}
+.combo-box {
+    -fx-font-family: "Comic Sans MS";
+    -fx-text-fill: green;
+    -fx-font-size: 10pt;
+    -fx-font-weight: bold;
+}
+.text-area {
+    -fx-font-family: "Comic Sans MS";
+    -fx-text-fill: blue;
+    -fx-font-size: 10pt;
+}
+.button {
+    -fx-font-family: "Comic Sans MS";
+    -fx-text-fill: red;
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+}
+.root {
+    -fx-background-color: antiquewhite;
+}
